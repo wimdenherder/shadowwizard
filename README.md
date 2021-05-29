@@ -13,3 +13,10 @@ shadowwizard({
   padding: false
 })
 ```
+
+#Options
+
+Shadowing supports two options (optional)
+
+* shadow_type
+* padding
